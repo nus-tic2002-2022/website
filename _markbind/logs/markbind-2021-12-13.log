@@ -1,0 +1,35 @@
+2021-12-12T16:06:51.616Z - info: Website generation (lazy) started at 12:06:47 am
+2021-12-12T16:06:56.886Z - info: Building assets...
+2021-12-12T16:07:01.139Z - info: Assets built
+2021-12-12T16:07:01.140Z - info: Generating landing page...
+2021-12-12T16:07:02.794Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-12-12T16:07:03.554Z - info: Site data built
+2021-12-12T16:07:03.554Z - info: Website generation (lazy) complete! Total build time: 16.067s
+2021-12-12T16:07:04.313Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-12-12T16:07:04.313Z - info: Press CTRL+C to stop ...
+2021-12-12T16:10:40.550Z - info: Website generation started at 12:10:38 am
+2021-12-12T16:10:47.011Z - info: Building assets...
+2021-12-12T16:10:51.819Z - info: Assets built
+2021-12-12T16:10:51.820Z - info: Generating pages...
+2021-12-12T16:10:59.658Z - debug:  
+2021-12-12T16:10:59.659Z - debug:  
+2021-12-12T16:11:05.221Z - debug:  
+2021-12-12T16:11:05.222Z - debug:  
+2021-12-12T16:11:21.631Z - debug:  
+2021-12-12T16:11:36.687Z - debug:  
+2021-12-12T16:12:16.349Z - info: Pages built
+2021-12-12T16:12:17.250Z - info: Site data built
+2021-12-12T16:12:17.250Z - info: Website generation complete! Total build time: 98.612s
+2021-12-12T16:12:17.250Z - info: Build success!
+2021-12-12T16:12:30.401Z - info: Deployed at https://nus-tee3201.github.io/2022!
+2021-12-12T16:29:06.901Z - info: Website generation (lazy) started at 12:28:59 am
+2021-12-12T16:29:13.661Z - info: Building assets...
+2021-12-12T16:29:19.756Z - info: Assets built
+2021-12-12T16:29:19.756Z - info: Generating landing page...
+2021-12-12T16:29:22.219Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-12-12T16:29:23.322Z - info: Site data built
+2021-12-12T16:29:23.323Z - info: Website generation (lazy) complete! Total build time: 23.656s
+2021-12-12T16:29:24.257Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-12-12T16:29:24.257Z - info: Press CTRL+C to stop ...
+2021-12-12T16:52:28.253Z - info: Website generation started at 12:52:25 am
+2021-12-12T16:52:34.524Z - info: Building assets...
