@@ -14,7 +14,7 @@ with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('sp
 with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('blockquote',[_c('p',[_v("Well-written applications include error-handling code that allows them to recover gracefully from unexpected errors. When an error occurs, the application may need to request user intervention, or it may be able to recover on its own. In extreme cases, the application may log the user off or shut down the system. -- "),_c('sub',[_c('a',{attrs:{"href":"https://msdn.microsoft.com/en-us/library/windows/desktop/ms679320(v=vs.85).aspx"}},[_v("Microsoft")])])])])])])}
+with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('blockquote',[_c('p',[_v("Well-written applications include error-handling code that allows them to recover gracefully from unexpected errors. When an error occurs, the application may need to request user intervention, or it may be able to recover on its own. In extreme cases, the application may log the user off or shut down the system. -- "),_c('sub',[_c('a',{attrs:{"href":"https://docs.microsoft.com/en-my/windows/win32/debug/error-handling"}},[_v("Microsoft")])])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('h2',{attrs:{"id":"exceptions"}},[_c('span',{staticClass:"anchor",attrs:{"id":"exceptions"}}),_c('span',[_v("Exceptions")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exceptions","onclick":"event.stopPropagation()"}})])])}
@@ -86,6 +86,6 @@ with(this){return _c('p',[_c('strong',[_c('em',[_v("Logging")]),_v(" is the deli
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Logging")]),_v(" can be useful for troubleshooting problems")]),_v(". A good logging system records some system information regularly. When bad things happen to a system "),_c('span',{staticClass:"dimmed"},[_v("e.g. an unanticipated failure")]),_v(", their associated log files may provide indications of what went wrong and actions can then be taken to prevent it from happening again.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 1 Jan 2022, 0:24:30 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 5 Jan 2022, 21:52:43 GMT+8]")])])])}
 }];
   

@@ -600,18 +600,10 @@
       "title": "SDLC Process Models",
       "headings": {
         "introduction": "Introduction",
-        "example-process-models": "Example process models",
-        "more": "More",
-        "summary": "Summary",
         "what": "What",
         "sequential-models": "Sequential Models",
         "iterative-models": "Iterative Models",
         "agile-models": "Agile Models",
-        "xp": "XP",
-        "scrum": "Scrum",
-        "unified-process": "Unified Process",
-        "cmmi": "CMMI",
-        "recap": "Recap",
         "sdlc-process-models": "SDLC process models"
       },
       "headingKeywords": {}
