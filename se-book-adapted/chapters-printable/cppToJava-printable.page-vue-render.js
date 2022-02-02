@@ -629,7 +629,7 @@ with(this){return _c('p',[_v("In Java, "),_c('strong',[_v("an "),_c('em',[_v("in
 with(this){return _c('p',[_c('strong',[_v("Interfaces cannot be instantiated—they can only be "),_c('em',[_v("implemented")]),_v(" by classes")]),_v(". When an instantiable class implements an interface, indicated by the keyword "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("implements")]),_v(", it provides a method body for each of the methods declared in the interface.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("An interface can be used as a type")]),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline java"}},[_v("DrivableVechicle dv = "),_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("new")]),_v(" CarModelX();")]),_v(".")])}
+with(this){return _c('p',[_c('strong',[_v("An interface can be used as a type")]),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline java"}},[_v("DrivableVehicle dv = "),_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("new")]),_v(" CarModelX();")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Interfaces can inherit from other interfaces")]),_v(" using the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("extends")]),_v(" keyword, similar to a class inheriting another.")])}
@@ -878,6 +878,6 @@ with(this){return _c('p',[_v("The techniques above are good enough to manipulate
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("Java applications are typically delivered as JAR (short for "),_c('em',[_v("Java Archive")]),_v(") files.")]),_v(" A JAR contains Java classes and other resources (icons, media files, etc.).")]),_v(" "),_c('p',[_v("An executable JAR file can be launched using the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("java -jar")]),_v(" command e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("java -jar foo.jar")]),_v(" launches the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("foo.jar")]),_v(" file.")]),_v(" "),_c('p',[_v("The IDE or build tools such as Gradle can help you to package your application as a JAR file.")]),_v(" "),_c('p',[_v("See the tutorial "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/jar.html"}},[_c('em',[_v("Working with JAR files")]),_v(" @se-edu/guides")]),_v(" to learn how to create and use JAR files.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Wed, 26 Jan 2022, 20:07:58 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Wed, 2 Feb 2022, 14:59:24 GMT+8]")])])])}
 }];
   
