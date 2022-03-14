@@ -223,3 +223,209 @@
 2022-03-09T06:29:42.556Z - info: Press CTRL+C to stop ...
 2022-03-09T12:05:43.965Z - info: Website generation started at 8:05:42 pm
 2022-03-09T12:05:48.091Z - info: Building assets...
+2022-03-09T12:05:51.655Z - info: Assets built
+2022-03-09T12:05:51.656Z - info: Generating pages...
+2022-03-09T12:06:00.524Z - debug:  
+2022-03-09T12:06:00.524Z - debug:  
+2022-03-09T12:06:00.565Z - debug:  
+2022-03-09T12:06:00.565Z - debug:  
+2022-03-09T12:06:00.565Z - debug:  
+2022-03-09T12:06:27.389Z - debug:  
+2022-03-09T12:07:13.977Z - info: Pages built
+2022-03-09T12:07:15.318Z - info: Site data built
+2022-03-09T12:07:15.318Z - info: Website generation complete! Total build time: 92.898s
+2022-03-09T12:07:15.319Z - info: Build success!
+2022-03-09T12:13:59.611Z - info: The website has been deployed at: https://nus-tic2002-2022.github.io/website
+2022-03-09T15:22:19.081Z - info: Website generation (lazy) started at 11:22:14 pm
+2022-03-09T15:22:23.874Z - info: Building assets...
+2022-03-09T15:22:28.619Z - info: Assets built
+2022-03-09T15:22:28.619Z - info: Generating landing page...
+2022-03-09T15:22:29.335Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-09T15:22:30.220Z - info: Site data built
+2022-03-09T15:22:30.220Z - info: Website generation (lazy) complete! Total build time: 15.268s
+2022-03-09T15:22:31.078Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-03-09T15:22:31.078Z - info: Press CTRL+C to stop ...
+2022-03-09T15:22:53.181Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\project as some of its dependencies were changed since the last visit
+2022-03-09T15:22:54.211Z - info: Site data built
+2022-03-09T15:22:54.211Z - info: Lazy website regeneration complete! Total build time: 1.032s
+2022-03-09T15:23:02.156Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2022-03-09T15:23:02.546Z - info: Site data built
+2022-03-09T15:23:02.546Z - info: Lazy website regeneration complete! Total build time: 0.39s
+2022-03-09T15:23:10.073Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w9 as some of its dependencies were changed since the last visit
+2022-03-09T15:23:11.082Z - info: Site data built
+2022-03-09T15:23:11.082Z - info: Lazy website regeneration complete! Total build time: 1.009s
+2022-03-09T15:25:26.068Z - info: [11:25:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines.mbdf
+2022-03-09T15:25:26.069Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:25:26.070Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:25:26.071Z - info: 1. admin/tp-w9
+2022-03-09T15:25:27.079Z - info: Rebuilding 1 pages
+2022-03-09T15:25:28.337Z - info: Site data built
+2022-03-09T15:25:28.337Z - info: Pages rebuilt
+2022-03-09T15:25:28.337Z - info: Website regeneration complete! Total build time: 1.259s
+2022-03-09T15:25:35.331Z - info: [11:25:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines.mbdf
+2022-03-09T15:25:35.331Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:25:35.332Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:25:35.332Z - info: 1. admin/tp-w9
+2022-03-09T15:25:36.340Z - info: Rebuilding 1 pages
+2022-03-09T15:25:37.251Z - info: Site data built
+2022-03-09T15:25:37.252Z - info: Pages rebuilt
+2022-03-09T15:25:37.252Z - info: Website regeneration complete! Total build time: 0.914s
+2022-03-09T15:26:25.081Z - info: [11:26:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines.mbdf
+2022-03-09T15:26:25.081Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:26:25.082Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:26:25.082Z - info: 1. admin/tp-w9
+2022-03-09T15:26:26.097Z - info: Rebuilding 1 pages
+2022-03-09T15:26:27.288Z - info: Site data built
+2022-03-09T15:26:27.288Z - info: Pages rebuilt
+2022-03-09T15:26:27.288Z - info: Website regeneration complete! Total build time: 1.192s
+2022-03-09T15:29:06.877Z - info: [11:29:06 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines.mbdf
+2022-03-09T15:29:06.877Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:29:06.877Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:29:06.878Z - info: 1. admin/tp-w9
+2022-03-09T15:29:07.887Z - info: Rebuilding 1 pages
+2022-03-09T15:29:09.023Z - info: Site data built
+2022-03-09T15:29:09.024Z - info: Pages rebuilt
+2022-03-09T15:29:09.024Z - info: Website regeneration complete! Total build time: 1.138s
+2022-03-09T15:34:42.687Z - info: [11:34:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:34:42.688Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:34:42.688Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:34:42.688Z - info: 1. admin/tp-w9
+2022-03-09T15:34:43.704Z - info: Rebuilding 1 pages
+2022-03-09T15:34:44.689Z - info: Site data built
+2022-03-09T15:34:44.690Z - info: Pages rebuilt
+2022-03-09T15:34:44.690Z - info: Website regeneration complete! Total build time: 0.988s
+2022-03-09T15:38:50.062Z - info: [11:38:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:38:50.063Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:38:50.063Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:38:50.064Z - info: 1. admin/tp-w9
+2022-03-09T15:38:51.081Z - info: Rebuilding 1 pages
+2022-03-09T15:38:52.198Z - info: Site data built
+2022-03-09T15:38:52.198Z - info: Pages rebuilt
+2022-03-09T15:38:52.198Z - info: Website regeneration complete! Total build time: 1.119s
+2022-03-09T15:39:18.108Z - info: [11:39:18 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:39:18.108Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:39:18.108Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:39:18.109Z - info: 1. admin/tp-w9
+2022-03-09T15:39:19.125Z - info: Rebuilding 1 pages
+2022-03-09T15:39:20.363Z - info: Site data built
+2022-03-09T15:39:20.364Z - info: Pages rebuilt
+2022-03-09T15:39:20.364Z - info: Website regeneration complete! Total build time: 1.24s
+2022-03-09T15:41:41.076Z - info: [11:41:41 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:41:41.077Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:41:41.077Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:41:41.077Z - info: 1. admin/tp-w9
+2022-03-09T15:41:42.090Z - info: Rebuilding 1 pages
+2022-03-09T15:41:43.218Z - info: Site data built
+2022-03-09T15:41:43.218Z - info: Pages rebuilt
+2022-03-09T15:41:43.219Z - info: Website regeneration complete! Total build time: 1.13s
+2022-03-09T15:42:16.010Z - info: [11:42:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:42:16.011Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:42:16.012Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:42:16.012Z - info: 1. admin/tp-w9
+2022-03-09T15:42:17.021Z - info: Rebuilding 1 pages
+2022-03-09T15:42:18.157Z - info: Site data built
+2022-03-09T15:42:18.158Z - info: Pages rebuilt
+2022-03-09T15:42:18.158Z - info: Website regeneration complete! Total build time: 1.139s
+2022-03-09T15:43:08.130Z - info: [11:43:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:43:08.130Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:43:08.131Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:43:08.131Z - info: 1. admin/tp-w9
+2022-03-09T15:43:09.143Z - info: Rebuilding 1 pages
+2022-03-09T15:43:10.239Z - info: Site data built
+2022-03-09T15:43:10.239Z - info: Pages rebuilt
+2022-03-09T15:43:10.240Z - info: Website regeneration complete! Total build time: 1.098s
+2022-03-09T15:45:13.942Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w10 as some of its dependencies were changed since the last visit
+2022-03-09T15:45:15.021Z - info: Site data built
+2022-03-09T15:45:15.021Z - info: Lazy website regeneration complete! Total build time: 1.079s
+2022-03-09T15:45:34.335Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w11 as some of its dependencies were changed since the last visit
+2022-03-09T15:45:35.938Z - info: Site data built
+2022-03-09T15:45:35.938Z - info: Lazy website regeneration complete! Total build time: 1.604s
+2022-03-09T15:46:25.300Z - info: [11:46:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:46:25.300Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:46:25.301Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:46:25.301Z - info: 1. admin/tp-w11
+2022-03-09T15:46:26.316Z - info: Rebuilding 1 pages
+2022-03-09T15:46:27.555Z - info: Site data built
+2022-03-09T15:46:27.555Z - info: Pages rebuilt
+2022-03-09T15:46:27.555Z - info: Website regeneration complete! Total build time: 1.241s
+2022-03-09T15:47:11.086Z - info: [11:47:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:47:11.087Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:47:11.087Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:47:11.087Z - info: 1. admin/tp-w11
+2022-03-09T15:47:12.099Z - info: Rebuilding 1 pages
+2022-03-09T15:47:13.377Z - info: Site data built
+2022-03-09T15:47:13.377Z - info: Pages rebuilt
+2022-03-09T15:47:13.378Z - info: Website regeneration complete! Total build time: 1.279s
+2022-03-09T15:47:28.821Z - info: [11:47:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:47:28.821Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:47:28.822Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:47:28.822Z - info: 1. admin/tp-w11
+2022-03-09T15:47:29.842Z - info: Rebuilding 1 pages
+2022-03-09T15:47:31.142Z - info: Site data built
+2022-03-09T15:47:31.142Z - info: Pages rebuilt
+2022-03-09T15:47:31.142Z - info: Website regeneration complete! Total build time: 1.302s
+2022-03-09T15:48:24.436Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w12 as some of its dependencies were changed since the last visit
+2022-03-09T15:48:25.357Z - info: Site data built
+2022-03-09T15:48:25.357Z - info: Lazy website regeneration complete! Total build time: 0.922s
+2022-03-09T15:49:03.777Z - info: [11:49:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-09T15:49:03.777Z - info: Synchronizing opened pages list before reload
+2022-03-09T15:49:03.777Z - info: Current opened pages, from most-to-least recent:
+2022-03-09T15:49:03.777Z - info: 1. admin/tp-w12
+2022-03-09T15:49:04.785Z - info: Rebuilding 1 pages
+2022-03-09T15:49:05.580Z - info: Site data built
+2022-03-09T15:49:05.580Z - info: Pages rebuilt
+2022-03-09T15:49:05.580Z - info: Website regeneration complete! Total build time: 0.795s
+2022-03-09T15:49:20.615Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\index as some of its dependencies were changed since the last visit
+2022-03-09T15:49:21.066Z - info: Site data built
+2022-03-09T15:49:21.066Z - info: Lazy website regeneration complete! Total build time: 0.451s
+2022-03-09T15:49:23.323Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\index as some of its dependencies were changed since the last visit
+2022-03-09T15:49:23.836Z - info: Site data built
+2022-03-09T15:49:23.836Z - info: Lazy website regeneration complete! Total build time: 0.513s
+2022-03-09T15:49:26.849Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin as some of its dependencies were changed since the last visit
+2022-03-09T15:49:27.008Z - info: Site data built
+2022-03-09T15:49:27.008Z - info: Lazy website regeneration complete! Total build time: 0.159s
+2022-03-09T15:49:32.736Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\project as some of its dependencies were changed since the last visit
+2022-03-09T15:49:33.666Z - info: Site data built
+2022-03-09T15:49:33.667Z - info: Lazy website regeneration complete! Total build time: 0.931s
+2022-03-09T15:51:36.361Z - info: Website generation started at 11:51:33 pm
+2022-03-09T15:51:42.139Z - info: Building assets...
+2022-03-09T15:51:47.615Z - info: Assets built
+2022-03-09T15:51:47.616Z - info: Generating pages...
+2022-03-09T15:51:56.974Z - debug:  
+2022-03-09T15:51:56.975Z - debug:  
+2022-03-09T15:51:56.976Z - debug:  
+2022-03-09T15:51:56.976Z - debug:  
+2022-03-09T15:51:56.976Z - debug:  
+2022-03-09T15:51:56.977Z - debug:  
+2022-03-09T15:53:26.235Z - debug:  
+2022-03-09T15:53:36.720Z - debug:  
+2022-03-09T15:53:36.720Z - debug:  
+2022-03-09T15:53:39.569Z - info: Pages built
+2022-03-09T15:53:40.729Z - info: Site data built
+2022-03-09T15:53:40.729Z - info: Website generation complete! Total build time: 126.831s
+2022-03-09T15:53:40.729Z - info: Build success!
+2022-03-09T15:55:54.825Z - info: The website has been deployed at: https://nus-tic4002-ay2122s2.github.io/website
+2022-03-09T15:56:18.541Z - info: Website generation (lazy) started at 11:56:13 pm
+2022-03-09T15:56:24.351Z - info: Building assets...
+2022-03-09T15:56:28.917Z - info: Assets built
+2022-03-09T15:56:28.918Z - info: Generating landing page...
+2022-03-09T15:56:30.316Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-09T15:56:31.503Z - info: Site data built
+2022-03-09T15:56:31.504Z - info: Website generation (lazy) complete! Total build time: 17.746s
+2022-03-09T15:56:32.556Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-03-09T15:56:32.557Z - info: Press CTRL+C to stop ...
+2022-03-09T15:56:48.307Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\index as some of its dependencies were changed since the last visit
+2022-03-09T15:56:49.168Z - info: Site data built
+2022-03-09T15:56:49.168Z - info: Lazy website regeneration complete! Total build time: 0.862s
+2022-03-09T15:56:53.437Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin as some of its dependencies were changed since the last visit
+2022-03-09T15:56:53.691Z - info: Site data built
+2022-03-09T15:56:53.692Z - info: Lazy website regeneration complete! Total build time: 0.255s
+2022-03-09T15:56:57.335Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\topics as some of its dependencies were changed since the last visit
+2022-03-09T15:57:02.057Z - info: Site data built
+2022-03-09T15:57:02.058Z - info: Lazy website regeneration complete! Total build time: 4.722s
+2022-03-09T15:57:02.909Z - debug:  
+2022-03-09T15:57:03.539Z - debug:  
+2022-03-09T15:57:03.639Z - debug:  
+2022-03-09T15:58:48.518Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\project as some of its dependencies were changed since the last visit
+2022-03-09T15:58:49.592Z - info: Site data built
+2022-03-09T15:58:49.592Z - info: Lazy website regeneration complete! Total build time: 1.074s
