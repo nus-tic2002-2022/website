@@ -80,6 +80,6 @@ with(this){return _c('div',[_c('p',[_v("So far everything is great. For myself i
 with(this){return _c('div',[_c('p',[_v("I think everyone has their own speed, some are working adults, working as software engineer so it would be a breeze for them as they are already applying the concept from their daily work scope whereas some people are learning from the scratch. The instructions for Intellij is also not clear.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Wed, 6 Apr 2022, 21:41:34 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Tue, 12 Apr 2022, 2:16:24 GMT+8]")])])])}
 }];
   
